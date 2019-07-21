@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="69c055bf-0e55-48f2-b83a-b0e0915cbfe9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/gittest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="69c055bf-0e55-48f2-b83a-b0e0915cbfe9" name="Default Changelist" comment="" />
+>>>>>>> c49c293582ac64e70c602511cc7b66b5b2720f33
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,12 +126,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563629667743</updated>
+<<<<<<< HEAD
       <workItem from="1563629672702" duration="2722000" />
+=======
+      <workItem from="1563629672702" duration="1628000" />
+>>>>>>> c49c293582ac64e70c602511cc7b66b5b2720f33
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2722000" />
+=======
+    <option name="totallyTimeSpent" value="1628000" />
+>>>>>>> c49c293582ac64e70c602511cc7b66b5b2720f33
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="68" width="1418" height="772" extended-state="0" />
@@ -191,8 +203,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gittest.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="30">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+=======
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+>>>>>>> c49c293582ac64e70c602511cc7b66b5b2720f33
         </state>
       </provider>
     </entry>
